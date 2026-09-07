@@ -18,6 +18,11 @@ Natürlich kannst du den Text anpassen.
 
 Mein Lieblingsfach ist: alles außer kabisch
 
+## Meine Änderung
+
+Diese Änderung habe ich in meinem eigenen Branch erstellt.
+
+
 ## Mein Ziel
 
 Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet.
