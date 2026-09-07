@@ -14,3 +14,14 @@ Klasse:
 - Mit anderen zusammenarbeiten
  
 Natürlich kannst du den Text anpassen.
+## Mein Lieblingsfach
+
+Mein Lieblingsfach ist: alles außer kabisch
+
+## Mein Ziel
+
+Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet.
+ 
+Speichere die Änderung mit einem neuen Commit.
+Frage: Wie viele Commits hast du jetzt?
+Antwort: 2
